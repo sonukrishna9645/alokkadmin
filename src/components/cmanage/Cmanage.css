@@ -1,0 +1,82 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: rgb(57, 207, 157);
+    background-image:url() ;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+  }
+  
+  .container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  h2 {
+    color: #333;
+  }
+  
+  h3 {
+    margin-top: 20px;
+    color: #333;
+  }
+  
+  table {
+    width: 30px;
+    margin-top: 20px;
+    border-collapse: collapse;
+    text-align: center;
+  }
+  
+  th, td {
+    border: 1px solid #ffffff;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  th {
+    background-color: #f07676;
+  }
+  
+  .action-button {
+    margin-top: 10px;
+  }
+  
+  .add-course-form {
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .add-course-form input {
+    margin-right: 10px;
+    width: 150px;
+  }
+  
+  .add-course-form button {
+    width: 100px;
+  }
+  
+  
+  .table-container {
+    max-width: 600px; 
+    margin: 20px auto; 
+    overflow-x: auto;
+    text-align: left; 
+  }
+  
+  table {
+    width: 100%;
+    margin: auto; 
+    border-collapse: collapse;
+  }
+  
+  th, td {
+    border: 1px solid #ffffff;
+    padding: 10px;
+    text-align: center; 
+  }
+  
